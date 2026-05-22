@@ -48,14 +48,4 @@ sociedad-digital/
 └── README.md       # Este archivo
 ```
 
-## 🚀 Cómo activar GitHub Pages
-
-1. En este repositorio, ve a **Settings** → **Pages**.
-2. En *Source*, elige **Deploy from a branch**.
-3. Selecciona la rama **main** y la carpeta **/ (root)**.
-4. Pulsa **Save** y espera 1–2 minutos.
-5. La URL pública aparecerá en la parte superior de esa misma página.
-
----
-
 *Proyecto educativo · 2026*
